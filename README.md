@@ -15,6 +15,7 @@ During the week I'm an algorithm engineer at [Amy.app](https://amy.app). I speci
 
 Outside of work, I love making my life easier with well-designed, JS driven tools. Mostly built in ReactJS, these are either for fun, or self-teaching purposes. Enjoy! &nbsp;🎉
 
-<a href="https://www.linkedin.com/in/seed/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/seed/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-[Henry.nz](https://henry.nz)
+<a href="https://henry.nz" target="_blank">henry.nz</a>
+
