@@ -13,7 +13,7 @@
 
 During the week I'm an algorithm engineer at [Amy.app](https://amy.app). I specialise in using Expression Trees and tree based algorithms to build parts of our smart maths-tutoring system.
 
-Outside of work, I love making my life easier with well-designed, JS driven tools. Mostly built in ReactJS, these are either for fun, or self-teaching purposes. Enjoy! &nbsp;🎉
+Outside of work, I love making my life easier with well-designed, JS driven tools. Mostly built in ReactJS, these are either for fun, or self-teaching purposes. Im also a sucker for some good CLI tools. Enjoy! &nbsp;🎉
 
 <a href="https://www.linkedin.com/in/seed/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
