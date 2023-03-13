@@ -1,4 +1,4 @@
-![Header](https://github.com/HenrySeed/HenrySeed/blob/master/header.png?raw=true)
+![Screen Shot 2023-03-14 at 9 14 31 AM](https://user-images.githubusercontent.com/5369727/224822154-2690387d-3018-4e22-a61d-dbef00a3f4a7.png)
 
 ## 👋  &nbsp;&nbsp; Hi I'm Henry, a full-stack developer from New Zealand &nbsp;🥝
 
