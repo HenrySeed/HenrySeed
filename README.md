@@ -9,10 +9,7 @@
 ### Currently Learning
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 
-
-During the week I'm a team-lead at [Seequent](https://www.seequent.com/).
-
-Outside of work, I love making my life easier with well-designed, JS driven tools. Mostly built in ReactJS, these are either for fun, or self-teaching purposes. I'm also a sucker for some good CLI tools. Enjoy! &nbsp;🎉
+I love making my life easier with well-designed, JS driven tools. Mostly built in ReactJS, these are either for fun, or self-teaching purposes. I'm also a sucker for some good CLI tools. Enjoy! &nbsp;🎉
 
 <a href="https://www.linkedin.com/in/seed/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
